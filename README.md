@@ -8,9 +8,6 @@ Mern stack web developer
 * ✉️  You can contact me at [mohammadrezajafari.dev@gmail.com](mailto:mohammadrezajafari.dev@gmail.com)
 * 🧠  I'm learning more stuff about backend development
 
-<a href="https://www.github.com/dayeezus" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dayeezus?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
@@ -31,18 +28,21 @@ src="https://img.shields.io/github/followers/dayeezus?logo=github&style=for-the-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/dayeezus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dayeezus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/dayeezus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dayeezus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammadreza-jafari-8a33aa247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dayeezus"><img src="https://github-readme-stats.vercel.app/api?username=dayeezus&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="dayeezus's GitHub stats" /></a>
+
+<a href="http://www.github.com/dayeezus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dayeezus&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/dayeezus"><img src="https://activity-graph.herokuapp.com/graph?username=dayeezus&bg_color=171717&color=ffffff&line=6366f1&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
