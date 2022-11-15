@@ -1,12 +1,8 @@
 Hi 👋 My name is Mohammad
 =========================
 
-Mern stack web developer
+Back end developer
 ------------------------
-
-* 🌍  I'm based in Tehran,Iran
-* ✉️  You can contact me at [mohammadrezajafari.dev@gmail.com](mailto:mohammadrezajafari.dev@gmail.com)
-* 🧠  I'm learning more stuff about backend development
 
 ### Skills
 
