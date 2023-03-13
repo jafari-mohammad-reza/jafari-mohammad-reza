@@ -26,5 +26,4 @@ Working on my own portfolio and practicing current skills by coding open source 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DaYeezus&icon=0&color=12)](https://visitcount.itsvg.in)
 
