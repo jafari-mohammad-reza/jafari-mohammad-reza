@@ -5,9 +5,9 @@ Back end developer
 ------------------------
 
 # 💫About Me :
-I'm Currently learning new stuff about Backend development and focusing to getting deeper in my own skills
-Looking for Remote or on-site job offer in Backend developer position
-Working on my own portfolio and practicing current skills by coding open source project
+A passionate  junior  Backend developer live in Tehran, Iran. Works with Node.js and related technologies. 
+enjoy working on open-source projects and keeping up with new technologies.
+Interested in Dev Ops and Linux. 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafari-mohammad-reza/) 
@@ -21,9 +21,4 @@ Working on my own portfolio and practicing current skills by coding open source 
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=DaYeezus&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
