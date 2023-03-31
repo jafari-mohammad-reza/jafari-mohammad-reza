@@ -19,6 +19,3 @@ Interested in Dev Ops and Linux.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jafari-mohammad-reza&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafari-mohammad-reza&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=jafari-mohammad-reza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
