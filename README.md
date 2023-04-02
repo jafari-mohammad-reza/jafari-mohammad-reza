@@ -5,7 +5,7 @@ Back end developer
 ------------------------
 
 # 💫 About Me:
-Hello, I'm Mohammadreza Jafari<br>I'm a junior backend developer based in Tehran, Iran. Works with Node.js and related technologies. I have experience of building and maintaining server-side applications, which you can see in my GitHub and Projects sections.<br>I enjoy working on open-source projects and keeping up with new technologies. My passion for DevOps and Linux has motivated me to pursue further education and certification in these areas. You can learn more about me on my ![My Portfolio](https://mohammadrezajafari.info).
+Hello, I'm Mohammadreza Jafari<br>I'm a junior backend developer based in Tehran, Iran. Works with Node.js and related technologies. I have experience of building and maintaining server-side applications, which you can see in my GitHub and Projects sections.<br>I enjoy working on open-source projects and keeping up with new technologies. My passion for DevOps and Linux has motivated me to pursue further education and certification in these areas. You can learn more about me on my [My Portfolio](https://mohammadrezajafari.info).
 
 
 ## 🌐 Socials:
