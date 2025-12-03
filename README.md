@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently learning and working on <br>- distributed systems<br>- big data orianted applications like aggregators and pipelines<br>- database internals and different databases<br>- devops utils and scripts
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafari-mohammad-reza/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadrezajafari.dev@gmail.com) 
