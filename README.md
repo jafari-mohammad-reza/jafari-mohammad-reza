@@ -8,5 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=jafari-mohammad-reza&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jafari-mohammad-reza&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafari-mohammad-reza&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![An image of @jafarimohammadreza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jafarimohammadreza)](https://holopin.io/@jafarimohammadreza)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
